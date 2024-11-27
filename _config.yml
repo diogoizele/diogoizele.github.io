@@ -28,11 +28,9 @@ social:
   name: Diogo Izele # the full name for the author
   email: dev@diogoizele.com # your email address
   links:
-    - https://twitter.com/diogoizele # your Twitter homepage
     - https://github.com/diogoizele # your GitHub homepage
     - https://www.linkedin.com/in/diogoizele # your LinkedIn profile (if you have)
     # Add more social links if needed, for example Instagram or Medium
-    - https://www.instagram.com/diogoizele # your Instagram profile
 
 # Site Verification Settings
 webmaster_verifications:
@@ -71,7 +69,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.jpg # link to your avatar image (local or URL)
+avatar: /assets/img/avatar.jpeg # link to your avatar image (local or URL)
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
