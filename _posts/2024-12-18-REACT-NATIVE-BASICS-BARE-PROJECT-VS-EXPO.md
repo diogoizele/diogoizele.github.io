@@ -6,7 +6,8 @@ tags: [React Native, Expo, Basics]
 description: "How to decide the best tool for your project"
 author: diogoizele
 toc: true
-
+image:
+  path: /assets/img/react-native/bare-project-vs-expo/cover.jpg
 ---
 
 [React Native](https://github.com/facebook/react-native) is a framework created by Facebook, now Meta, that allows us to build native mobile applications using JavaScript and React in a single codebase.
