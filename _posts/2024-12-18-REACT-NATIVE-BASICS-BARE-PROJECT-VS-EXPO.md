@@ -19,7 +19,7 @@ Native applications are those built for a specific operating system, such as iOS
 
 Once, I heard that **computing is like a short blanket: pulling it from one side will expose the other**. In mobile development, this means that by seeking abstractions that simplify development, like in React Native, you might lose some control over performance. On the other hand, with native development, you have more control but must deal with greater complexity.
 
-![computing is like a short blanket: pulling it from one side will expose the other](/assets//img/react-native/bare-project-vs-expo/short-blanket.png)
+![computing is like a short blanket: pulling it from one side will expose the other](/assets//img/react-native/bare-project-vs-expo/choice.gif)
 
 React Native brought with it the ability to create cross-platform apps with impressive ease, using the same codebase and accessing native resources with the simplicity of JavaScript. On the other hand, when building an app with native technologies, you forgo this simplicity during development in favor of having a more robust, performant, and lightweight app.
 
