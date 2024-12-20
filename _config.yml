@@ -63,7 +63,7 @@ pageviews:
   provider: goatcounter
 
 # Prefer color scheme setting.
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 cdn:
