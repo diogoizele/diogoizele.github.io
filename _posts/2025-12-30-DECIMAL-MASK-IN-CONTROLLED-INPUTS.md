@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Decimal Values in Controlled Inputs in React Native"
 date: 2025-12-30 00:00:00 +0000
-categories: [React, React Native, Masks, Controlled Inputs]
+categories: [React, Masks, Controlled Inputs]
 tags: [React, React Native]
 description: "A brief experience on handling decimal values in controlled inputs using masks in React Native."
 author: diogoizele
