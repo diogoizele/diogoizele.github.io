@@ -2,7 +2,7 @@
 title: "VirtualizedList vs FlatList in React Native"
 date: 2026-02-19 00:00:00 +0000
 categories: [React Native, Advanced, Lists, Performance]
-tags: [React Native, VirtualizedList, FlatList]
+tags: [Advanced, React Native, VirtualizedList, FlatList]
 description: "Explaining the difference between VirtualizedList and FlatList, with diagrams, examples, common mistakes, and best practices."
 author: diogoizele
 toc: true
