@@ -292,7 +292,7 @@ What now? Does this mean patterns have regressed and we should go back to callin
 
 The truth is that modern React application architecture is **anemic in global state**. Most data handled by an application is not "client state," but **[server state](https://dev.to/jeetvora331/server-state-vs-client-state-in-react-for-beginners-3pl6)**: data fetched from a server that needs to exist only temporarily in memory, subject to synchronization, invalidation, and refetching. The type of data for which Redux was never truly the ideal tool.
 
-# Server State in the Frontend?
+## Server State in the Frontend?
 
 While deepening my studies on state management in modern architectures, I encountered the notion of server state. In the frontend context, the term isn't as widespread, but the idea is straightforward: it refers to data obtained from an external API that remains temporarily in local memory, equivalent to being stored in a `useState`.
 
